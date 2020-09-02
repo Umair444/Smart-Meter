@@ -1,0 +1,12 @@
+Extract MATLAB APPLICATION Archive (Keep all the files in same directory)
+Run .mpp file in matlab 2020a
+
+ 			 ---------------------------------How to run w/o matlab ---------------------------------
+
+Open 'Smart_Meter/Direct run' folder
+Open .exe File
+NOTE 1: You should have MATLAB runtime 9.8 for this_ MATLAB compiler to complile the code
+NOTE 2: Don't get afraid from thumbnail image, the app is beautiful inside.
+
+-------------- DDL for MATLAB runtime 9.8
+https://ssd.mathworks.com/supportfiles/downloads/R2020a/Release/3/deployment_files/installer/complete/win64/MATLAB_Runtime_R2020a_Update_3_win64.zip

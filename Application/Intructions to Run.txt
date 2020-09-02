@@ -1,0 +1,7 @@
+-- A window will appear as you run, wait as the application is heavy
+-- Press clear button to reset the UIAxes
+-- Select the some date from MARCH, as this project is in sandby since lockdown
+	(I'm not lying, May and June values are vitually generated from Write.m file)
+-- Press Dynamic Ticks to get the interactive UIAxes, it'll give you the past data and then stop
+-- Press draw with uncheck Dynamic Ticks; the UIAxes will not be interactive but it'll keep on running forever.
+-- And take the warning serious if you don't want to crash the app, I might fix the crashes and some other bugs in some later version

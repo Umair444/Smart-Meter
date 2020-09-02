@@ -3,7 +3,7 @@
    I have a variable of current signals, first I have to convert it into voltages.
 
 
-   PINS of NANO:
+   PINS of MEGA:
    A0 -- Input Value of Current Signals
    A1 -- Input Voltage measurement pin from Transformer Circuit
 */

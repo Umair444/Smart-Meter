@@ -53,5 +53,6 @@ The following GNU pacakges must are required for compilation
 # Contact
 For further information, contribution and support, you can contact me on following addresses
 
-[123456789](tel:123456789)
-[abc@abc.com](mailto:abc@abc.com)
+Phone: [123456789](tel:123456789)
+
+Email: [abc@abc.com](mailto:abc@abc.com)

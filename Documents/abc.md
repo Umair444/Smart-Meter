@@ -23,18 +23,31 @@ The following GNU pacakges must are required for compilation
 
 # Sample Screenshots
 **Executing the Shell**
+
 ![1](https://user-images.githubusercontent.com/38018683/163719619-6d243028-35f3-4cfc-981b-cca6f1676c3d.png)
+
 **List the Files in a Directory**
+
 ![2](https://user-images.githubusercontent.com/38018683/163720899-b865e4d0-5081-429a-8134-28e7a1bfebc8.png)
+
 **Make and Change Directory**
+
 ![3](https://user-images.githubusercontent.com/38018683/163720900-06081af6-1656-4316-81eb-3aa1390abcfe.png)
+
 **Fibonacci and Help Command**
+
 ![4](https://user-images.githubusercontent.com/38018683/163720901-dffd6524-3c4d-43bc-b5e3-45cd8436f206.png)
+
 **History Log**
+
 ![5](https://user-images.githubusercontent.com/38018683/163720904-bc2fa162-4545-4018-b833-bb72261dfffe.png)
+
 **All in One**
+
 ![6](https://user-images.githubusercontent.com/38018683/163720908-46066447-afb1-44eb-aa6c-0e5907906b1a.png)
+
 **Command List**
+
 ![7](https://user-images.githubusercontent.com/38018683/163720910-7de8c2e2-c98f-4b5e-84f9-0046823ff86d.png)
 
 # Contact
